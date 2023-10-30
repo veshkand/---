@@ -1,0 +1,53 @@
+
+.gl{
+    margin: 0px auto;
+    width: 900px;
+    height: auto;
+    background-color: blanchedalmond;
+}
+.g1{
+    padding: 30px;
+    text-align: center;
+    width: 300px;
+    height: auto;
+    background-color: blueviolet;
+}
+.g1 .g2{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    padding: 40px;
+    background-color: rgb(168, 109, 223);
+    border: 2px solid black;
+}
+.g2 img{
+    margin: -40px -12px;
+     width: 130px;
+     height: 180px;
+}
+.g1 .s{
+     width: 20px;
+     height: 20px;
+}
+.kon{
+    width:auto;
+    height: 50px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.f img{
+    width: 30px;
+    height: 20px;
+    color: black;
+}
+.f{
+    border-bottom: 2px solid white;
+}
+.g1 p{
+    font-size: 25px;
+    text-align: left;
+    font-style: italic;
+}
+input{
+    float: right;
+}
